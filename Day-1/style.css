@@ -1,0 +1,28 @@
+.my-container{
+    background-color: lightgray;
+}
+.row{
+    height: 200px;
+}
+.row3{
+    background-color:pink;
+}
+.block1{
+    background-color: rgb(8, 253, 253);
+    height:150px;
+    color: black; 
+}
+.row2{
+    background-color:lightcyan;
+}
+.block2{
+    background-color: rgb(6, 158, 158);
+    height:150px;
+    color:wheat;
+}
+.block3{
+    background-color: rgb(20, 85, 85);
+    height:150px;
+    color: rgb(209, 184, 241); 
+    color:wheat;
+}
